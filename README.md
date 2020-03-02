@@ -1,6 +1,6 @@
 # PIZZA
 
-####+ This is a website that will help  customers place order of their desired pizza and get delivered to their location.
+ This is a website that will help  customers place order of their desired pizza and get delivered to their location.
 
 #### By Joseph nyingi 
 
