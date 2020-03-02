@@ -5,19 +5,18 @@
 #### By Joseph nyingi 
 
 ## Description
- Our design practice offers a full range of services including brand strategy, interaction and visual design and user experience testing. Throughout your project, our designers create and implement visual design and workflows, solicit user feedback and work with you to make sure what gets built is what is needed.  Development  All engineers are fluent in the latest enterprise, mobile and web development technologies. They collaborate with your team to write, and improve code on a daily basis, using proven practices such as test-driven development and pair programming.  Product Management  Planning and development is iterative. Because we are constantly coding and testing, the products we build are always ready to go live. This iterative process allows for changes as business requirements evolve
+ The homemade pizza is produced in-house daily and is another reason why the pizza at Pizza Inn always tastes better. The Twisty Bread, the signature Wingz and the delicious Double Meal are additional value-for-money options that keep our satis?ed customers coming back time after time. These are the meals that have made our Terri?c Tuesday everyone’s favourite day of the week. When entertaining, a Hawaiian, a Regina, or a Peri Peri Chicken pizza from Pizza Inn is the obvious and perfect option to please crowds of all ages.
  
 ## Setup/Installation Requirements
 * JsFiddle and JavaScript console.
 
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
 ## Known Bugs
 There are no known bugs
 
 ## Technologies Used
 Technologies used are HTML, CSS(bootstrap) and JavaScript (jQuery)
 ## Support and contact details
-Link to live site https://josephnyingi.github.io/studio/
+Link to live site 
 phone contacts: 0708171881
 ### License
 License
